@@ -13,6 +13,26 @@ h2 {
   font-size: 32px;
 }
 
-h1 #ny {
+h1,#ny,#cr {
   color: white;
+}
+
+header,#ny {
+  background-image: url(../media/the-flatiron-building.png)
+}
+
+/* links */
+a {
+  font-size: 18px;
+  color: white ;
+}
+
+/* footer  */
+footer {
+  background-color: dimgray;
+  text-align: left;
+}
+
+#cr {
+  font-size: 11px;
 }
