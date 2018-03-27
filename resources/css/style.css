@@ -1,0 +1,18 @@
+/* styles for all components */
+html {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+/* headings */
+h1 {
+   font-size: 70px;
+ }
+
+h2 {
+  font-size: 32px;
+}
+
+h1 #ny {
+  color: white;
+}
